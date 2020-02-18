@@ -1,0 +1,51 @@
+*{
+    background-color: cyan;
+    font-family:'Sriracha', cursive;
+    overflow-x: hidden;
+}
+#two{
+    background-color: cyan;
+    text-align: center;
+    font-size: xx-large;
+}
+
+nav li{
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: italic;
+    font-stretch: expanded;
+    text-align: center;
+}
+
+#one{
+    font-size: larger;
+    width:400px;
+    border: 2px solid black;
+    text-align:center;
+}
+#three{
+    text-align: center;
+    font-size: xx-large;
+    background-color: cyan;
+}
+#four{
+    text-align: center;
+    font-size: xx-large;
+}
+#five{
+    font-size: 18px;
+    text-align: center;
+    color:black;
+}
+#six{
+    font-size: 18px;
+    text-align: center;
+    color:black;
+}
+#seven{
+    text-align: center;
+}
+.two{
+    text-align: center;
+    font-size: 24px;
+}
