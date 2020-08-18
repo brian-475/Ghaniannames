@@ -3,7 +3,7 @@
 
 The application is all about the wonderful names in Ghana and its people.
 
-#### By **I made this application alone. No contributors.**
+#### **I made this application alone. No contributors.**
 ## Description
 The purpose of this application is to reffer to the date of birth through the user input and calculate their Akan names.
 ## Setup/Installation Requirements
